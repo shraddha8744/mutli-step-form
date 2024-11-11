@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box{
+    margin-left: 600px;
+    border: 1px solid black;
+    margin-right: 600px;
+    margin-top: 100px;
+    padding: 20px;
+}
